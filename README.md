@@ -3,7 +3,6 @@
 #### Frontend-leaning full-stack developer based in Melbourne 🇦🇺
 
 I build products end to end: React/Next.js on the front, Node and Supabase on the back.<br>
-Spent the last few years building indie tools and an audience from scratch.<br>
 
 - ⚙️ I use daily: `.ts`, `.tsx`, `.js`, `.sql`
 - 🧱 My stack: **React**, **Next.js**, **Node**, **Supabase**, **Postgres**
